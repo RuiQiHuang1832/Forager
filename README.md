@@ -2,10 +2,14 @@
 
 Press M to use map.
 
-# To build
+## To build
 
 Export to desktop
 
 Double Click
 
-OR run through terminal
+OR 
+
+Command Line
+
+**'java -jar thenameofyourjar.jar'**
