@@ -13,5 +13,7 @@ OR
 ## To run .exe
 
 #1 Download .zip
+
 #2 Export Forager folder to desktop
+
 #3 run .exe
