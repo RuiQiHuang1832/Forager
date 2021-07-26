@@ -10,7 +10,7 @@ OR
 
 #2 Command Line -> **'java -jar thenameofyourjar.jar'**
 
-## To run exe
+## To run .exe
 
 #1 Download .zip
 #2 Go into Forager file and run .exe
