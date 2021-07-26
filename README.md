@@ -13,4 +13,5 @@ OR
 ## To run .exe
 
 #1 Download .zip
-#2 Go into Forager file and run .exe
+#2 Export Forager folder to desktop
+#3 run .exe
