@@ -1,6 +1,7 @@
 # Forager
 
-Press M to use map.
+"Tab" to save location
+"LEFT_SHIFT" to reset game
 
 ## To build .jar
 
@@ -14,6 +15,6 @@ OR
 
 #1 Download .zip
 
-#2 Export Forager folder to desktop
+#2 Export 'Forager' folder to desktop
 
-#3 run .exe
+#3 run .exe with JRE
