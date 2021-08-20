@@ -1,3 +1,13 @@
+# Update:
+Collision
+Wind
+Trees
+Objects
+Animations
+Cursor
+Save State
+ETC
+
 # Forager
 
 "Tab" to save location
